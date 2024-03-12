@@ -1,0 +1,76 @@
+    <section class="games">
+        <div class="titulo2">
+            <img src="image/controle  games.png">
+            <h3>Desenvolvimento Games</h3>
+        </div><!--titulo1-->
+        <div class="container">
+            <div class="vitrine-games11">
+            <img src="image/Desenvolvimento de Games.jpg">
+            <div class="nome-curso">
+              <p>Curso Desenvolvimento de Games</p>  
+            </div><!--nome-curso-->
+            <div class="info-curso">
+                <p>O Desenvolvedor de games é responsável por criar criam jogos para computadores, celulares e consoles.Como desenvolvedor de games, você pode projetar as principais características do jogo, ou até mesmo supervisionar os testes e elaborar o design do game.</p>
+            </div><!--info-curso-->
+            <div class="btn14"><a href="file:///C:/Users/Gustavo/Desktop/Faculdade/Projeto/Servi%C3%A7os.html"><h2>Saiba mais</h2></a></div><!--btn14-->                
+            </div><!--vitrine-->
+        </div><!--container-->
+            <div class="vitrine-games12">
+            <img src="image/Curso Unreal Engine.jpg">
+            <div class="nome-curso2">
+              <p>Curso Curso Unreal Engine
+                <br> <strong>Completo</strong></p>  
+            </div><!--nome-curso-->
+            <div class="info-curso2">
+                <p>Em termos mais simples a tecnologia Unreal Engine é um tipo de motor gráfico que é praticamente o esqueleto do jogo, esse motro é capaz de gerar não só gráficos potentes, mas também oferece games de simulações e outros detalhes gráficos mais sutis.</p>
+            </div><!--info-curso-->
+            <div class="btn15"><a href="file:///C:/Users/Gustavo/Desktop/Faculdade/Projeto/Servi%C3%A7os.html"><h2>Saiba mais</h2></a></div><!--btn15-->   
+            </div><!--vitrine-->
+            <div class="vitrine-games13">
+            <img src="image/Unity do Zero.jpg">
+            <div class="nome-curso3">
+              <p>Curso Unity do Zero
+            <br> <strong>Completo</strong></p>  
+            </div><!--nome-curso-->
+            <div class="info-curso3">
+                <p>A Unity traz ferramentas para facilitar o desenvolvimento de games. Esse software  disponibiliza recursos para criação de gráficos realistas, objetos de cenários e trilhas sonoras. a linguagem usada é a C# (pronunciada C Sharp).</p>
+            </div><!--info-curso-->
+            <div class="btn16"><a href="file:///C:/Users/Gustavo/Desktop/Faculdade/Projeto/Servi%C3%A7os.html"><h2>Saiba mais</h2></a></div><!--btn16-->   
+            </div><!--vitrine-->
+    </section><!--body3-->
+
+             <section class="part4">
+            <div class="vitrine-games14">
+            <img src="image/Curso Godot Completo.png">
+            <div class="nomecurso">
+              <p>Curso Curso Godot 
+                <br> <strong>Completo</strong></p>  
+            </div><!--nome-curso-->
+            <div class="infocurso">
+                <p>Godot é uma plataforma de engine gratuitas, que os desenvolvedores não são cobrados pela royalties para ter acesso aos games criados, com essa plataforma pode ser feito games em 2D e 3D para várias plataformas. A Godot trabalha com quatro tipos de linguagens: (GDScript , C#, VisualScript e GDNative).</p>
+            </div><!--info-curso-->
+            <div class="btn17"><a href="file:///C:/Users/Gustavo/Desktop/Faculdade/Projeto/Servi%C3%A7os.html"><h2>Saiba mais</h2></a></div><!--btn17-->             
+            </div><!--vitrine-->
+            <div class="vitrine-games15">
+            <img src="image/Design de Games.jpg">
+            <div class="nomecurso2">
+              <p>Curso Design de Games  
+                <br> <strong>Completo</strong></p>  
+            </div><!--nome-curso-->
+            <div class="infocurso2">
+                <p>O Designer de games é responsável por projetar a parte artística dos games. O Designer acaba participando mais do processos de criação de cenários e personagens dosgames, mas acaba sendo mais focado na criação e na elaboração da fluidez das animação e na modelagem dos personagens.</p>
+            </div><!--info-curso-->
+            <div class="btn18"><a href="file:///C:/Users/Gustavo/Desktop/Faculdade/Projeto/Servi%C3%A7os.html"><h2>Saiba mais</h2></a></div><!--btn18-->   
+            </div><!--vitrine-->
+            <div class="vitrine-games16">
+            <img src="image/Construct-3.png">
+            <div class="nomecurso3">
+              <p>Curso Construct 3 
+                <br> <strong>Completo</strong></p>  
+            </div><!--nome-curso-->
+            <div class="infocurso3">
+                <p>Construct 3 é uma excelente ferramenta para desenvolvendo de games em HTML5, a plataforma trabalha com lógicas baseadas em blocos de eventos, por ser uma tecnica simples facilita o aprendizado dos princípios da programação de games.</p>
+            </div><!--info-curso-->
+            <div class="btn19"><a href="file:///C:/Users/Gustavo/Desktop/Faculdade/Projeto/Servi%C3%A7os.html"><h2>Saiba mais</h2></a></div><!--btn19-->   
+            </div><!--vitrine-->
+    </section><!--part2-->
